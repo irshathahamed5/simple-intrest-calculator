@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\jaz app\jaz app\bin\Debug\netstandard2.0\jaz app.deps.json
+C:\Users\Admin\source\repos\jaz app\jaz app\bin\Debug\netstandard2.0\jaz app.dll
+C:\Users\Admin\source\repos\jaz app\jaz app\bin\Debug\netstandard2.0\jaz app.pdb
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\jaz app.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\jaz app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\jaz app.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\jaz app.AssemblyInfo.cs
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\jaz app.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\jaz app.dll
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\refint\jaz app.dll
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\jaz app.pdb
+C:\Users\Admin\source\repos\jaz app\jaz app\obj\Debug\netstandard2.0\ref\jaz app.dll

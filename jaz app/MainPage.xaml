@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="jaz_app.MainPage" Padding="5">
+
+    <StackLayout Padding="25" Margin="25">
+
+        <Label Text="Intrest calculator" HorizontalTextAlignment="Center" TextColor="red" FontFamily="monospace" FontAttributes="Bold" FontSize="40"/>
+
+
+
+        <Entry    Placeholder="principle amount" PlaceholderColor="Black"  BackgroundColor="Aqua" TextColor="Red"  BindingContext="cender" FontSize="Title" Keyboard="Numeric" WidthRequest="5"  x:Name="principle" Margin="5,15"/>
+        <Entry   Placeholder="No Of Months" PlaceholderColor="Black"  BackgroundColor="Aqua" FontSize="Title" TextColor="red"  BindingContext="cender" Keyboard="Numeric" x:Name="Months" Margin="5,15" />
+        <Entry  Placeholder="Intrest" PlaceholderColor="Black"  BackgroundColor="Aqua" FontSize="Title" TextColor="red"   BindingContext="cender" Keyboard="Numeric" x:Name="intrest" Margin="5,15"/>
+        <Entry  Placeholder="totel amount" PlaceholderColor="Black"  BackgroundColor="Aqua" FontSize="Title" TextColor="red"  BindingContext="cender" Keyboard="Numeric" x:Name="llltotal" Margin="5,15"/>
+        <Button Text="calculate" TextColor="#0A0101" Clicked="Button_Clicked_Calculate" TextTransform="Default" BackgroundColor="#FC1717"  />
+
+    </StackLayout>
+
+</ContentPage>

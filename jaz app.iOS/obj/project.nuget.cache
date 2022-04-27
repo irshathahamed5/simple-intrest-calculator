@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+BPH/PKQF0rAP2wS7MNWlpRHn0Ssd5zKrE5AIXCCxqKjJzb0FauhqWO0EBWmnQ16hQcrt6xgfYpY8zVnm9gsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\jaz app\\jaz app.iOS\\jaz app.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
